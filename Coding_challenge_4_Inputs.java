@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Coding_challenge_4 {
+class Coding_challenge_4_Inputs {
     Scanner scanner = new Scanner(System.in);
 
     public void readNameAndAge() {
@@ -15,7 +15,7 @@ class Coding_challenge_4 {
     }
 
     public static void main(String[] args) {
-        (new Coding_challenge_4()).readNameAndAge();
+        (new Coding_challenge_4_Inputs()).readNameAndAge();
     }
 
 }

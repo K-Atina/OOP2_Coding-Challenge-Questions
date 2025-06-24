@@ -1,10 +1,10 @@
-class Coding_challenge_1 {
+public class CodingChallenge_1_Greeter {
 
     void greet() {
         System.out.println("Hello, there!");
     }
 
     public static void main(String[] args){
-        (new Coding_challenge_1()).greet();
+        (new CodingChallenge_1_Greeter()).greet();
     }
 }

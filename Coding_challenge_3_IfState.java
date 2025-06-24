@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class Coding_challenge_3 {
+public class Coding_challenge_3_IfState {
     public static void main(String[] args) {
     
     Random random = new Random();

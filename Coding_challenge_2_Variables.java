@@ -1,4 +1,4 @@
-public class Coding_challenge_2 {
+public class Coding_challenge_2_Variables {
     void showInterest() {
         double amount;
         double interest; //percentage
@@ -15,7 +15,7 @@ public class Coding_challenge_2 {
     } // Closing the showInterest method
 
     public static void main(String[] args) {
-        (new Coding_challenge_2()).showInterest();
+        (new Coding_challenge_2_Variables()).showInterest();
     }
 
 }

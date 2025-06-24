@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Coding_challenge_5 {
+class Coding_challenge_5_Loops {
     Scanner sc = new Scanner(System.in);
 
     void showHello(){
@@ -15,6 +15,6 @@ class Coding_challenge_5 {
     }
 
     public static void main(String[] args) {
-        (new Coding_challenge_5()).showHello();
+        (new Coding_challenge_5_Loops()).showHello();
     }
 }
