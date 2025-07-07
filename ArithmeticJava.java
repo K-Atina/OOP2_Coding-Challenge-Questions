@@ -1,5 +1,3 @@
-import java.io.*;
-
 public class ArithmeticJava {
     public static void main(String[] args) {
         int number1 = 100;
